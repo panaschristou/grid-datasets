@@ -2,7 +2,7 @@
 Datasets for Grid Data used in Machine Learning  
 We split the data to their corresponding domains and give links to Google Drive for easy access
 
-## Power System Grid Reconfiguraion
+## Power System Grid Reconfiguration
 ### Papers
 LLM4DistReconfig: A Fine-tuned Large Language Model for Power Distribution Network Reconfiguration
 ### Datasets
